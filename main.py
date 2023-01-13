@@ -37,3 +37,5 @@ async def get_god_details(model_name: ModelName):
         return {'model_name': model_name, 'msg': "Follow Completeness"}
     return {"model_name":model_name, "msg": "follow Creator"}
 
+def backend():
+    pass

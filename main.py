@@ -39,3 +39,6 @@ async def get_god_details(model_name: ModelName):
 
 def backend():
     pass
+
+def newbranchcode():
+    pass
